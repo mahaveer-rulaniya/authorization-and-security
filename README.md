@@ -77,10 +77,7 @@
     8.3 [Create Submit GET Route](https://github.com/SchmidtRichard/Authentication-Security/blob/master/README.md#create-submit-get-route)</br>
     8.4 [Create Submit POST Route](https://github.com/SchmidtRichard/Authentication-Security/blob/master/README.md#create-submit-post-route)</br>
     8.5 [Amend mongoose userSchema](https://github.com/SchmidtRichard/Authentication-Security/blob/master/README.md#amend-mongoose-userschema)</br>
-9.  [node-emoji](https://github.com/SchmidtRichard/Authentication-Security/blob/master/README.md#node-emoji)</br>
-    9.1 [node-emoji Installation](https://github.com/SchmidtRichard/Authentication-Security/blob/master/README.md#node-emoji-installation)</br>
-    9.2 [node-emoji Usage](https://github.com/SchmidtRichard/Authentication-Security/blob/master/README.md#node-emoji-usage)</br>
-    9.3 [JSON File With All the Emojis](https://github.com/SchmidtRichard/Authentication-Security/blob/master/README.md#json-file-with-all-the-emojis)</br>
+
 
 * * *
 
