@@ -307,7 +307,7 @@ DB_PASS=s1mpl3
 `process.env` now has the keys and values you defined in your `.env` file.
 
 ```js
-    const db = require('db')
+    const db=require('db')
     db.connect({
       host: process.env.DB_HOST,
       username: process.env.DB_USER,
